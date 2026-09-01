@@ -23,7 +23,7 @@ port  = [1 3];                  % [terminal1, terminal2]
 resistance(nodes, edges, port);
 ```
 
-Run `EC_project.m` directly in MATLAB to see results for all five example networks:
+Run `equivalent_resistance.m` directly in MATLAB to see results for all five example networks:
 
 | Network  | Description                                   |
 |----------|------------------------------------------------|
